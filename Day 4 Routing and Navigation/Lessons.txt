@@ -1,0 +1,8 @@
+DOCUMENTATIONS
+https://reactrouter.com/en/main/start/tutorial
+
+1. In order to implement navigation in React, you have to use addditional library called react router.
+by executing this command npm install react-router-dom in the react project.
+
+2. import {createBrowserRoute,RouterProvider} from 'react-router-dom' in the root of the project eg.index.js
+

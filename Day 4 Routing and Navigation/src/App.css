@@ -1,0 +1,32 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  column-gap: 2rem;
+}
+
+a {
+  color: blueviolet;
+  text-decoration: none;
+}
+
+.logo {
+  font-size: 1.4rem;
+}
+
+.container>p {
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 18rem;
+}
